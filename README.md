@@ -1,9 +1,9 @@
 # 🛒 Retail Revenue & Customer Segmentation Analysis  
-### (Vrinda E-Commerce Store Analytics – Excel + SQL + Power BI)
+### (Vrinda E-Commerce Store Analytics: SQL + Power BI + Excel)
 
 Welcome to the **Vrinda Store Revenue & Customer Segmentation Project** 🚀  
 
-This project demonstrates an end-to-end analytics pipeline — from raw transaction data to business insights — using **Excel, SQL, and Power BI concepts**.
+This project demonstrates an end-to-end analytics pipeline from raw transaction data to business insights using **Excel, SQL, and Power BI concepts**.
 
 The goal was to transform a flat sales dataset into a performance-optimized analytical model, identify customer loyalty behavior, and measure revenue dependency on repeat buyers.
 
